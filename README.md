@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Here I upload my data-science projects
+View my portfolio of data-science projects
